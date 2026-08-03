@@ -24,7 +24,7 @@
 |---|---|---|
 | [StoryFlow for Unity](https://github.com/storyflow-editor/storyflow-unity-plugin) | Unity 2022.3+ | [Unity Docs](https://storyflow-editor.com/integrations/unity/docs/) |
 | [StoryFlow for Godot](https://github.com/storyflow-editor/storyflow-godot-plugin) | Godot 4.3+ | [Godot Docs](https://storyflow-editor.com/integrations/godot/docs/) |
-| [StoryFlow for Unreal Engine](https://github.com/storyflow-editor/storyflow-ue5-plugin) | UE 5.3 - 5.7 | [UE5 Docs](https://storyflow-editor.com/integrations/unreal-engine/docs/) |
+| [StoryFlow for Unreal Engine](https://github.com/storyflow-editor/storyflow-ue5-plugin) | UE 5.3 - 5.8 | [UE5 Docs](https://storyflow-editor.com/integrations/unreal-engine/docs/) |
 
 All plugins are open-source and licensed under MIT. Contributions welcome!
 
